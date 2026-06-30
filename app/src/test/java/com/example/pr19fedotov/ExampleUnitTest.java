@@ -1,4 +1,4 @@
-package com.example.pr19homyakov;
+package com.example.pr19fedotov;
 
 import org.junit.Test;
 
